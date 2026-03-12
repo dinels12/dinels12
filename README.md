@@ -13,7 +13,7 @@
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dinels-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinels)
 [![Email](https://img.shields.io/badge/Email-dinels12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinels12@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-daniel--suarez.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://daniel-suarez.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-daniel--suarez.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-daniel-suarez.netlify.app/)
 [![Open to work](https://img.shields.io/badge/Status-Open%20to%20remote%20roles-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
 </div>
