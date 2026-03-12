@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm Daniel Suarez 👋
 
-<!--
-**dinels12/dinels12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack Software Engineer specializing in building scalable web and mobile platforms.
 
-Here are some ideas to get you started:
+Currently working as **CTO / Lead Engineer at Aloharmony**, where I built a meditation platform with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 16,000+ registered users  
+• 1,300 daily active users  
+• Mobile apps for iOS and Android  
+• Full backend and cloud infrastructure  
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+React  
+Next.js  
+Astro  
+TailwindCSS  
+
+### Mobile
+React Native  
+Expo  
+
+### Backend
+Node.js  
+NestJS  
+GraphQL  
+REST APIs  
+
+### Cloud & Infrastructure
+AWS (ECS, EC2, S3, CloudFront)  
+Docker  
+Redis  
+CI/CD  
+
+### Integrations
+Stripe  
+PayPal  
+Discord APIs  
+
+---
+
+# 🧠 What I enjoy building
+
+• Mobile applications  
+• Backend APIs  
+• Full product ecosystems  
+• Cloud infrastructure  
+• High performance web apps  
+
+I enjoy taking products from **idea → architecture → production**.
+
+---
+
+# 🧩 Featured Projects
+
+### Aloharmony
+Meditation platform with thousands of users.
+
+Tech:
+React Native • Next.js • NestJS • AWS • Stripe
+
+---
+
+### Ninifarm
+Analytics platform integrated with a Discord bot that analyzed message activity and generated visual metrics.
+
+Tech:
+React • GraphQL • Discord API
+
+---
+
+### Subliful
+Mobile platform developed with React Native and GraphQL APIs.
+
+---
+
+# 🌐 Portfolio
+
+Portfolio website:
