@@ -1,3 +1,8 @@
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![React Native](https://img.shields.io/badge/React%20Native-Mobile-black)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+
 # Hi, I'm Daniel Suarez 👋
 
 Senior Full-Stack Software Engineer specializing in building scalable web and mobile platforms.
@@ -80,3 +85,17 @@ Mobile platform developed with React Native and GraphQL APIs.
 # 🌐 Portfolio
 
 Portfolio website:
+https://daniel-suarez.dev
+---
+
+# 📫 Contact
+
+LinkedIn  
+https://linkedin.com/in/dinels
+
+Email  
+dinels12@gmail.com
+
+---
+
+⭐ Always open to interesting engineering challenges and remote opportunities.
